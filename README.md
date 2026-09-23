@@ -1,4 +1,5 @@
 # VoiceFabricFactory
+# Supports Android and Linux desktop
 
 **Local, offline AI voice cloning text-to-speech for Linux desktop — by MilenPL.**
 
