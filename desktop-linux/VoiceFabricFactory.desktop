@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=VoiceFabricFactory
+Comment=Local AI voice cloning text-to-speech (XTTS-v2)
+Exec=/home/ignacy/voiceforge/linux/run.sh
+Icon=/home/ignacy/Projekty/VoiceFabricFactory/desktop-linux/VoiceFabricFactory.png
+Terminal=false
+Categories=AudioVideo;Audio;Utility;
+StartupNotify=true

@@ -1,0 +1,31 @@
+VoiceFabricFactory — Freeware License
+Copyright (c) 2026 MilenPL
+
+VoiceFabricFactory is freeware.
+
+1. The software is provided free of charge for personal, educational and
+   non-commercial use.
+2. You may install and use it on your personal devices at no cost, for
+   as long as you like.
+3. You may share unmodified copies of the official release packages
+   (APK, archives), provided this license text is included intact and
+   you charge no fee for them.
+4. You may modify the source for your own personal use. Public
+   distribution of modified versions requires the author's permission.
+5. You may NOT sell, rent, license, or otherwise commercialize the
+   software, its packages, or works derived from it, and you may not
+   remove or alter this copyright notice.
+6. Third-party components keep their own licenses. In particular, the
+   XTTS-v2 text-to-speech model weights are covered by the Coqui Public
+   Model License (CPML) — https://coqui.ai/cpml — which also permits
+   non-commercial use only. The bundled demo voice samples are
+   synthesized Google Translate (gTTS) clips provided solely for
+   demonstration.
+7. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR (MilenPL) BE LIABLE FOR
+   ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE
+   SOFTWARE.
+
+Copyright (c) 2026 MilenPL. All rights reserved.
