@@ -25,6 +25,7 @@ desktop-linux/release/VoiceFabricFactory-1.2-gnome.tar.gz
 ```
 
 ## Android
+Important: Up to mobile version 1.2 the AI model will download only if your device has at least 6GB of RAM. in the mobile version 1.3 this will be changed for older devices. 
 
 ```bash
 cd mobile-android/main-branch/mobile-android/android
